@@ -1,0 +1,134 @@
+[
+  {
+    "name": "QG Daksha App",
+    "desc": "Worked on an App for an Assam govt funded startup. It is fully fledged Android CRUD app based on different design patterns. Built using Kotlin, XML, MVVM, Jitpack, Material Design, SQLite, Firebase, RoomDB, RazorPay payment Gateway. Live on Play Store",
+    "image": "portfolio-1",
+    "category": "Android",
+    "links": {
+      "view": "https://play.google.com/store/apps/details?id=com.daksha.daksha",
+      "code": "https://drive.google.com/file/d/10j3Dgv6rn32DssOH865UTgOSVzTOM9i9/view?usp=sharing"
+    }
+  },
+  {
+    "name": "Academics Minor Project - Snake's eye",
+    "desc": "A mobile app that aids visually challenged individuals through Image & text recognition and Sentiment analysis using TF lite for Android and the model is developed using the latest scalable machine learning platform by google also using some basic tools of data science and data mining.",
+    "image": "portfolio-2",
+    "category": "Android",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Sanjeevkumar-kv29/SnakeEyes"
+    }
+  },
+  {
+    "name": "Go pedia App",
+    "desc": "This application is developed for online study and exams. This is a freelancing Project Live in google play store. This Android app built using kotlin, XML, Firebase, Retrofit & Glide dependencies, Payment Gateway and PDF and Json Scraping.",
+    "image": "portfolio-3",
+    "category": "Android",
+    "links": {
+      "view": "https://play.google.com/store/apps/details?id=com.gopedia.gopedia",
+      "code": "#"
+    }
+  },
+  {
+    "name": "MQL online learning app",
+    "desc": "Native Android app built using Kotlin, Java, XML, MVP, Retrofit and jitpack dependencies. Provides video leactures on different skills. Ready to go live on Playstore.",
+    "image": "portfolio-4",
+    "category": "Android",
+    "links": {
+      "view": "https://drive.google.com/file/d/11Te__t1H9nL8IPBwgZFivXv28MysvBci/view?usp=sharing",
+      "code": "#"
+    }
+  },
+  {
+    "name": "KaarwaaN... Jec website",
+    "desc": "Full-Stack Website for my college welfare society using HTML, CSS, Java Script, Firebase.",
+    "image": "portfolio-11",
+    "category": "React",
+    "links": {
+      "view": "https://kaarwaan.github.io",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Hand Writing Recognition Python ML Application",
+    "desc": "Python - ML based desktop application which is built for hand written character recognition, Tech involved - Python, Open CV, Numpy, Pandas",
+    "image": "portfolio-5",
+    "category": "Python",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Sanjeevkumar-kv29/Charecter-recogniser--PY"
+    }
+  },
+  {
+    "name": "Vasudhaiv Kutumbkam Android App",
+    "desc": "Developed Kotlin Based Android application for a charity. used razor pay payment gateway and Volly library along with material design.",
+    "image": "portfolio-6",
+    "category": "Android",
+    "links": {
+      "view": "https://resumegenx.netlify.app/",
+      "code": "https://github.com/jigar-sable/resumegen"
+    }
+  },
+  {
+    "name": "Resource 19",
+    "desc": "Fully functional application for covid 19 resources availability Check like hospital, ventilator, Oxygen cylender etc. Tech - kotlin, firebase, material design, web scraping.",
+    "image": "portfolio-7",
+    "category": "Android",
+    "links": {
+      "view": "https://drive.google.com/file/d/1lg-CuMcrozC8wsF7wb86pJnPtRChPvo7/view?usp=sharing",
+      "code": "https://github.com/Sanjeevkumar-kv29/resource-19-app"
+    }
+  },
+  {
+    "name": "supermarket Item prediction",
+    "desc": "Unsupervise learning based project for item prediction and bill generator in supermarket. Tech - Python, sklearn, numpy, pandas, tkinter",
+    "image": "portfolio-8",
+    "category": "Python",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Sanjeevkumar-kv29/SUPER-MARKET-RECOMMENDATION-SYSTEM---UNSUPERVISE-LEARNING"
+    }
+  },
+  {
+    "name": "Java Contact Book",
+    "desc": "Developed an advance contactbook for a client, it can store a large no of contacts in MYSQL database, with all details and also print it and also automatically remove the long-time inactive contact, Notify over email.",
+    "image": "portfolio-9",
+    "category": "Java",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Sanjeevkumar-kv29/phonebook-project"
+    }
+  },
+  {
+    "name": "House Rent Prediction",
+    "desc": "House rent prediction project using Linear regression ,Sklearn library and Supervise Machine Learning.",
+    "image": "portfolio-10",
+    "category": "Python",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Sanjeevkumar-kv29/house-prediction---machine-learning"
+    }
+  },
+  
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "React",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/Portfolio-Website"
+    }
+  },
+  
+  {
+    "name": "Webview App",
+    "desc": "It's an Android app which uses web view component for displaying content. This app provides many different features.",
+    "image": "webviewapp",
+    "category": "Android",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
