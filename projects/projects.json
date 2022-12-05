@@ -1,6 +1,6 @@
 [
   {
-    "name": "QG Daksha App",
+    "name": "QG Daksha Android App",
     "desc": "Worked on an App for an Assam govt funded startup. It is fully fledged Android CRUD app based on different design patterns. Built using Kotlin, XML, MVVM, Jitpack, Material Design, SQLite, Firebase, RoomDB, RazorPay payment Gateway. Live on Play Store",
     "image": "portfolio-1",
     "category": "Android",
@@ -10,7 +10,7 @@
     }
   },
   {
-    "name": "Academics Minor Project - Snake's eye",
+    "name": "Minor Project - Snake's eye App",
     "desc": "A mobile app that aids visually challenged individuals through Image & text recognition and Sentiment analysis using TF lite for Android and the model is developed using the latest scalable machine learning platform by google also using some basic tools of data science and data mining.",
     "image": "portfolio-2",
     "category": "Android",
@@ -20,7 +20,7 @@
     }
   },
   {
-    "name": "Go pedia App",
+    "name": "Go pedia Android App",
     "desc": "This application is developed for online study and exams. This is a freelancing Project Live in google play store. This Android app built using kotlin, XML, Firebase, Retrofit & Glide dependencies, Payment Gateway and PDF and Json Scraping.",
     "image": "portfolio-3",
     "category": "Android",
@@ -30,7 +30,7 @@
     }
   },
   {
-    "name": "MQL online learning app",
+    "name": "MQL Online learning App",
     "desc": "Native Android app built using Kotlin, Java, XML, MVP, Retrofit and jitpack dependencies. Provides video leactures on different skills. Ready to go live on Playstore.",
     "image": "portfolio-4",
     "category": "Android",
@@ -113,22 +113,12 @@
   {
     "name": "Portfolio Website",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
+    "image": "portfolio-11",
     "category": "React",
     "links": {
-      "view": "#",
-      "code": "https://github.com/jigar-sable/Portfolio-Website"
+      "view": "sanjeevkumar2904.github.io",
+      "code": "https://github.com/sanjeevkumar2904/sanjeevkumar2904.github.io"
     }
-  },
+  }  
   
-  {
-    "name": "Webview App",
-    "desc": "It's an Android app which uses web view component for displaying content. This app provides many different features.",
-    "image": "webviewapp",
-    "category": "Android",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  }
 ]
