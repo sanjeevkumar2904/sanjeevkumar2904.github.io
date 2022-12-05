@@ -33,7 +33,7 @@
     },
     {
         "name": "Apache Spark",
-        "icon": "https://cdn.icon-icons.com/icons2/2699/PNG/48/apache_spark_logo_icon_170560.png"
+        "icon": "https://cdn.icon-icons.com/icons2/2699/PNG/64/apache_spark_logo_icon_170561.png"
     },
     {
         "name": "Flask",
@@ -45,11 +45,11 @@
     },
     {
         "name": "MySQL",
-        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+        "icon": "https://img.icons8.com/color/64/000000/mysql-logo.png"
     },
     {
         "name": "DBT",
-        "icon": "https://i0.wp.com/www.scalefree.com/wp-content/uploads/2021/09/dbt-logo.png?w=48&ssl=1"
+        "icon": "https://i0.wp.com/www.scalefree.com/wp-content/uploads/2021/09/dbt-logo.png?w=64&ssl=1"
     },
     
     
@@ -79,16 +79,8 @@
         "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
     },
     {
-        "name": "Git VCS",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
-    },
-    {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    },
-    {
-        "name": "Postman",
-        "icon": " https://cdn.icon-icons.com/icons2/3053/PNG/48/postman_macos_bigsur_icon_189815.png"
     }
    
        
