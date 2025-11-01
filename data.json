@@ -1,0 +1,245 @@
+{
+  "skills": [
+    {"name": "Kotlin", "icon": "https://img.icons8.com/color/48/kotlin.png"},
+    {"name": "Jetpack Compose", "icon": "https://img.icons8.com/color/48/android-studio.png"},
+    {"name": "Android (Native)", "icon": "https://img.icons8.com/fluency/48/android-os.png"},
+    {"name": "React Native", "icon": "https://img.icons8.com/color/48/react.png"},
+    {"name": "TypeScript", "icon": "https://img.icons8.com/color/48/typescript.png"},
+    {"name": "JavaScript", "icon": "https://img.icons8.com/color/48/javascript--v1.png"},
+    {"name": "Java", "icon": "https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"},
+    {"name": "MVVM Architecture", "icon": "https://img.icons8.com/external-others-inmotus/48/external-architecture-others-inmotus.png"},
+    {"name": "Firebase", "icon": "https://img.icons8.com/color/48/firebase.png"},
+    {"name": "GCP", "icon": "https://img.icons8.com/fluency/48/google-cloud.png"},
+    {"name": "BigQuery", "icon": "https://img.icons8.com/color/48/google-bigquery.png"},
+    {"name": "DBT", "icon": "https://i0.wp.com/www.scalefree.com/wp-content/uploads/2021/09/dbt-logo.png?w=64&ssl=1"},
+    {"name": "PySpark", "icon": "https://cdn.icon-icons.com/icons2/2699/PNG/64/apache_spark_logo_icon_170561.png"},
+    {"name": "Hadoop", "icon": "https://img.icons8.com/color/48/hadoop-distributed-file-system.png"},
+    {"name": "Python", "icon": "https://img.icons8.com/color/48/python--v1.png"},
+    {"name": "Flask", "icon": "https://img.icons8.com/cute-clipart/48/flask.png"},
+    {"name": "REST APIs", "icon": "https://img.icons8.com/external-flaticons-flat-flat-icons/48/external-api-flaticons-flat-flat-icons-2.png"},
+    {"name": "Git / GitHub", "icon": "https://img.icons8.com/glyph-neue/48/github.png"},
+    {"name": "Jira & Confluence", "icon": "https://img.icons8.com/color/48/jira.png"},
+    {"name": "GrowthBook", "icon": "https://avatars.githubusercontent.com/u/70378630?s=200&v=4"},
+    {"name": "Crashlytics / BugSnag", "icon": "https://img.icons8.com/color/48/firebase.png"},
+    {"name": "Apache Superset", "icon": "https://superset.apache.org/img/favicon.png"},
+    {"name": "MySQL", "icon": "https://img.icons8.com/color/64/mysql-logo.png"},
+    {"name": "MongoDB", "icon": "https://img.icons8.com/color/48/mongodb.png"},
+    {"name": "AWS", "icon": "https://img.icons8.com/color/48/amazon-web-services.png"},
+    {"name": "HTML5 / CSS3", "icon": "https://img.icons8.com/color/48/html-5--v1.png"},
+    {"name": "TensorFlow Lite", "icon": "https://img.icons8.com/color/48/tensorflow.png"},
+    {"name": "Data Structures & Algorithms", "icon": "https://img.icons8.com/fluency/48/source-code.png"}
+  ],
+  "experience": [
+    {
+      "title": "Software Development Engineer — Android & React Native",
+      "company": "Bharti Airtel Limited (Airtel Digital)",
+      "duration": "Dec 2022 — Present",
+      "location": "Gurugram, India",
+      "responsibilities": [
+        "Lead frontend engineer for Airtel Money modules using widget-driven low-code architecture across React Native and native Android.",
+        "Built a high-throughput QR scanning pipeline using Google ML Kit and CameraX handling ~2.4M daily UPI transactions (~60% volume) with >80% success rate.",
+        "Implemented UPI features (UPI Lite, AutoPay, Mandates, Credit-on-UPI) and ensured NPCI/RBI compliance and robust security.",
+        "Optimized app performance: reduced APK size, improved cold-start times, and maintained 99.98% crash-free sessions.",
+        "Introduced GrowthBook for feature experimentation and built frontend SIT environments—improving velocity across 4+ pods.",
+        "Enabled Google Integrity API in Android to secure Airtel Thanks App and supported NPCI compliance for UPI Adhaar OTP, UPI Mapper, and UPI on Credit Card."
+      ]
+    },
+    {
+      "title": "Specialist Programmer — Data Engineer",
+      "company": "Infosys Limited",
+      "duration": "May 2022 — Nov 2022",
+      "location": "Pune, India",
+      "responsibilities": [
+        "Built scalable ETL/data pipelines for L’Oréal (EMEA) using PySpark, DBT, Airflow, and GCP.",
+        "Authored 2000+ lines of DBT SQL for KPI dashboards and automated data cleaning, saving ~70% manual effort.",
+        "Integrated analytics with Firebase & Apache Superset for real-time product reporting."
+      ]
+    },
+    {
+      "title": "SDE Intern",
+      "company": "Principal Global Services Pvt. Ltd.",
+      "duration": "Jan 2022 — Jun 2022",
+      "location": "Pune, India",
+      "responsibilities": [
+        "Contributed to Spring Boot microservices, React frontend, and AWS deployments; designed REST APIs and optimized SQL queries."
+      ]
+    },
+    {
+      "title": "Android Developer Intern",
+      "company": "Quick Ghy Pvt. Ltd.",
+      "duration": "Jun 2021 — Jan 2022",
+      "location": "Guwahati, India",
+      "responsibilities": [
+        "Implemented MVVM-based Android features and optimized mapping/location integrations, reducing server load by 67%."
+      ]
+    },
+    {
+      "title": "Android Developer Intern",
+      "company": "Humam Technology OPC",
+      "duration": "Oct 2020 — Nov 2020",
+      "location": "Lucknow, India",
+      "responsibilities": [
+        "Built a full-stack Android app with Firestore backend and integrated payment gateways."
+      ]
+    },
+    {
+      "title": "Python — ML Intern",
+      "company": "IIT Hyderabad / Azure Skynet Pvt. Ltd.",
+      "duration": "May 2020 — Jul 2020",
+      "location": "Hyderabad, India",
+      "responsibilities": [
+        "Developed computer vision pipelines using OpenCV and TensorFlow for people counting and object recognition."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "QG Daksha Android App",
+      "image": "assets/images/projects/portfolio-1.jpg",
+      "desc": "Worked on an App for an Assam govt funded startup. It is fully fledged Android CRUD app based on different design patterns. Built using Kotlin, XML, MVVM, Jitpack, Material Design, SQLite, Firebase, RoomDB, RazorPay payment Gateway. Live on Play Store",
+      "tags": ["Android", "Kotlin", "MVVM", "Firebase", "RoomDB", "Razorpay", "SQLite", "Material Design"],
+      "links": {
+        "view": "https://play.google.com/store/apps/details?id=com.daksha.daksha",
+        "code": "https://drive.google.com/file/d/10j3Dgv6rn32DssOH865UTgOSVzTOM9i9/view?usp=sharing"
+      }
+    },
+    {
+      "name": "Minor Project - Snake's eye App",
+      "image": "assets/images/projects/portfolio-2.png",
+      "desc": "A mobile app that aids visually challenged individuals through Image & text recognition and Sentiment analysis using TF Lite for Android and the model is developed using the latest scalable machine learning platform by Google also using some basic tools of data science and data mining.",
+      "tags": ["Android", "TensorFlow Lite", "Accessibility", "OpenCV", "Machine Learning"],
+      "links": {
+        "view": "#",
+        "code": "https://github.com/Sanjeevkumar-kv29/SnakeEyes"
+      }
+    },
+    {
+      "name": "Go pedia Android App",
+      "image": "assets/images/projects/portfolio-3.jpg",
+      "desc": "This application is developed for online study and exams. This is a freelancing Project Live in Google Play Store. This Android app built using Kotlin, XML, Firebase, Retrofit & Glide dependencies, Payment Gateway and PDF and Json Scraping.",
+      "tags": ["Android", "Kotlin", "Firebase", "Retrofit", "Glide", "Razorpay", "Web Scraping"],
+      "links": {
+        "view": "https://play.google.com/store/apps/details?id=com.gopedia.gopedia",
+        "code": "#"
+      }
+    },
+    {
+      "name": "MQL Online learning App",
+      "image": "assets/images/projects/portfolio-4.jpg",
+      "desc": "Native Android app built using Kotlin, Java, XML, MVP, Retrofit and JitPack dependencies. Provides video lectures on different skills. Ready to go live on Play Store.",
+      "tags": ["Android", "Kotlin", "MVP", "Retrofit", "Razorpay"],
+      "links": {
+        "view": "https://drive.google.com/file/d/11Te__t1H9nL8IPBwgZFivXv28MysvBci/view?usp=sharing",
+        "code": "#"
+      }
+    },
+    {
+      "name": "KaarwaaN... JEC Website",
+      "image": "assets/images/projects/portfolio-11.jpg",
+      "desc": "Full-Stack Website for my college welfare society using HTML, CSS, JavaScript, Firebase.",
+      "tags": ["HTML", "CSS", "JavaScript", "Firebase", "Responsive"],
+      "links": {
+        "view": "https://kaarwaan.github.io",
+        "code": "#"
+      }
+    },
+    {
+      "name": "Hand Writing Recognition Python ML Application",
+      "image": "assets/images/projects/portfolio-5.jpg",
+      "desc": "Python - ML based desktop application which is built for handwritten character recognition. Tech involved: Python, OpenCV, NumPy, Pandas.",
+      "tags": ["Python", "OpenCV", "Machine Learning", "NumPy", "Pandas"],
+      "links": {
+        "view": "#",
+        "code": "https://github.com/Sanjeevkumar-kv29/Charecter-recogniser--PY"
+      }
+    },
+    {
+      "name": "Vasudhaiv Kutumbkam Android App",
+      "image": "assets/images/projects/portfolio-6.jpg",
+      "desc": "Developed Kotlin-based Android application for a charity. Used Razorpay payment gateway and Volley library along with Material Design.",
+      "tags": ["Android", "Kotlin", "Razorpay", "Volley", "Material Design"],
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "Resource 19",
+      "image": "assets/images/projects/portfolio-7.jpg",
+      "desc": "Fully functional application for COVID-19 resources availability check like hospital beds, ventilators, oxygen cylinders, etc. Tech: Kotlin, Firebase, Material Design, web scraping.",
+      "tags": ["Android", "Kotlin", "Firebase", "Web Scraping", "Material Design"],
+      "links": {
+        "view": "https://drive.google.com/file/d/1lg-CuMcrozC8wsF7wb86pJnPtRChPvo7/view?usp=sharing",
+        "code": "https://github.com/Sanjeevkumar-kv29/resource-19-app"
+      }
+    },
+    {
+      "name": "Supermarket Item Prediction",
+      "image": "assets/images/projects/portfolio-8.jpg",
+      "desc": "Unsupervised learning-based project for item prediction and bill generation in supermarkets. Tech: Python, scikit-learn, NumPy, Pandas, Tkinter.",
+      "tags": ["Python", "scikit-learn", "Unsupervised Learning", "Pandas", "Tkinter"],
+      "links": {
+        "view": "#",
+        "code": "https://github.com/Sanjeevkumar-kv29/SUPER-MARKET-RECOMMENDATION-SYSTEM---UNSUPERVISE-LEARNING"
+      }
+    },
+    {
+      "name": "Java Contact Book",
+      "image": "assets/images/projects/portfolio-9.jpg",
+      "desc": "Developed an advanced contact book for a client that stores a large number of contacts in a MySQL database with full details, supports printing, auto-removes inactive contacts, and sends email notifications.",
+      "tags": ["Java", "MySQL", "JDBC", "Email API"],
+      "links": {
+        "view": "#",
+        "code": "https://github.com/Sanjeevkumar-kv29/phonebook-project"
+      }
+    },
+    {
+      "name": "House Rent Prediction",
+      "image": "assets/images/projects/portfolio-10.jpg",
+      "desc": "House rent prediction project using Linear Regression, scikit-learn library, and Supervised Machine Learning.",
+      "tags": ["Python", "scikit-learn", "Linear Regression", "Supervised Learning", "Machine Learning"],
+      "links": {
+        "view": "#",
+        "code": "https://github.com/Sanjeevkumar-kv29/house-prediction---machine-learning"
+      }
+    },
+    {
+      "name": "Portfolio Website",
+      "image": "assets/images/projects/portfolio-11.jpg",
+      "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+      "tags": ["HTML", "CSS", "JavaScript", "Responsive"],
+      "links": {
+        "view": "https://sanjeevkumar2904.github.io",
+        "code": "https://github.com/sanjeevkumar2904/sanjeevkumar2904.github.io"
+      }
+    }
+  ],
+  "services": [
+    {"title": "Resume Review", "desc": "Recruiter-oriented, ATS-friendly resume edits to boost interview traction."},
+    {"title": "Mock Interviews", "desc": "Realistic coding & system design interviews with structured feedback."},
+    {"title": "Android Development", "desc": "Clean architecture, Jetpack Compose, performance tuning, and release-ready builds."},
+    {"title": "React Native Development", "desc": "Cross-platform apps with native bridging, CI/CD, and performance optimization."},
+    {"title": "Project Consulting", "desc": "Technical feasibility, scoping, prototyping, and estimation for startups and teams."},
+    {"title": "Freelance Development", "desc": "End-to-end delivery for Android, React Native, web frontends, and Java/Python backends."},
+    {"title": "AI & Python Development", "desc": "LLM integrations, NLP pipelines, data preprocessing, and GCP deployment."},
+    {"title": "GATE & Career Guidance", "desc": "Mentorship for GATE aspirants and career coaching for software engineers."}
+  ],
+  "achievements": [
+    {"title": "RNR – Extra Mile Award 2024", "desc": "At Bharti Airtel for UPI compliance, security enhancements (Google Integrity API), and SIT environment development."},
+    {"title": "4x Rewards & Recognition", "desc": "Multiple performance appreciations at Bharti Airtel for high-impact deliveries."},
+    {"title": "Google Cloud Certified", "desc": "Cloud Digital Leader certification (Jan 2023)."},
+    {"title": "GATE Qualified (2021 & 2022)", "desc": "Cleared GATE twice in Computer Science."},
+    {"title": "INSPIRE National Scholarship", "desc": "Awarded by Govt. of India for securing Top 1% rank in Class 12 (2017)."},
+    {"title": "Chief Minister’s Award", "desc": "For scoring 100/100 in Mathematics and 95.6% overall in HSSC."},
+    {"title": "Young Achiever Nominee", "desc": "Nominated by JEC to Govt. of M.P. for 7-figure campus placement (2022)."}
+  ],
+  "certifications": [
+    {"title": "Google Cloud Certified – Cloud Digital Leader", "issuer": "Google", "date": "Jan 2023"},
+    {"title": "IBM Data Science Professional Certificate", "issuer": "Coursera (IBM)", "date": "Dec 2020"},
+    {"title": "React Native Certificate", "issuer": "Udemy", "date": "Jun 2023"},
+    {"title": "React Native: Building Hybrid Apps", "issuer": "LinkedIn Learning", "date": "Feb 2023"},
+    {"title": "AWS Fundamentals Specialization", "issuer": "Amazon Web Services", "date": "Oct 2020"},
+    {"title": "Infosys Certified BigData Developer", "issuer": "Infosys", "date": "Jul 2022"},
+    {"title": "HackerRank – Python & Java Certified", "issuer": "HackerRank", "date": "Jun 2020"}
+  ]
+}
